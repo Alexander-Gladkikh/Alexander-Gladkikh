@@ -1,6 +1,5 @@
 ### <div align="center">Привет меня зовут Александр, я начинающий frontend-разработчик 👨💻 </div>  
 <br/>  
-* ✉️  You can contact me at [som17son25@gmail.com](mailto:som17son25@gmail.com)
 
 ### Skills
 
