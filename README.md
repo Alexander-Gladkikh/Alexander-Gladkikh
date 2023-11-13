@@ -9,8 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1eb0a6&size=35&center=true&vCenter=true&width=1000&lines=Привет,+Меня+зовут+===+Александр;Я+Front-end+разработчик;Меня+интересуют+JavaScript,+React,+TypeScript;У+меня+есть+опыт+создания+SPA+в+React+TypeScript;Я+совершенствую+свои+навыки+в+этом+направлении;и+расширяю+их+с+помощью+новых+технологий;Спасибо+:%29)](https://git.io/typing-svg)
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Gladkikh&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Alexander-Gladkikh" /></div>
-
+<!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Gladkikh&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Alexander-Gladkikh" /></div>
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alexander-Gladkikh&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexander-Gladkikh github stats" /> 
