@@ -2,9 +2,7 @@
 - 👋 Привет, Я Александр Гладких
 - 👀 Меня интересуют JavaScript, React, TypeScript
 - 🌱 В настоящее время я ищу работу в качестве Front-end разработчика
-JavaScript - программист с двухлетним
-опытом front-end разработки. Есть
-опыт создания SPA с помощью React .
+
 Сейчас я совершенствую свои навыки в
 этом направлении и расширяю их с
 помощью новых технологий
@@ -13,7 +11,7 @@ JavaScript - программист с двухлетним
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Александр_Гладких"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1eb0a6&size=35&center=true&vCenter=true&width=1000&lines=JavaScript+-+программист+с+двухлетним+опытом+front-end+разработки.;Я+Front-end+разработчик;Меня+интересуют+JavaScript,+React,+TypeScript;У+меня+есть+опыт+создания+SPA+в+React+TypeScript;Я+совершенствую+свои+навыки+в+этом+направлении;и+расширяю+их+с+помощью+новых+технологий;Спасибо+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1eb0a6&size=35&center=true&vCenter=true&width=1000&lines=JavaScript+-+программист+с+двухлетним+опытом;front-end+разработки.;Есть+опыт+создания+SPA+с+помощью+React;Я+совершенствую+свои+навыки+в+этом+направлении;и+расширяю+их+с+помощью+новых+технологий;Спасибо+:%29)](https://git.io/typing-svg)
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Gladkikh&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Alexander-Gladkikh" /></div>
 -->
