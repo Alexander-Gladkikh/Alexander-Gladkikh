@@ -45,11 +45,11 @@
 </p>
 <br>
 
-<div align="center">
+
   
   ![image](https://www.codewars.com/users/Trooper1725/badges/large)
   
-</div>
+
 
 <div align="center">
 
